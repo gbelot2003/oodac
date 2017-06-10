@@ -1,4 +1,4 @@
-package domain;
+package hospital.domain;
 
 /**
  * Created by gbelot on 06-09-17.

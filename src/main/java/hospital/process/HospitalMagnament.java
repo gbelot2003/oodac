@@ -1,6 +1,6 @@
-package process;
+package hospital.process;
 
-import domain.Employee;
+import hospital.domain.Employee;
 
 /**
  * Created by gbelot on 06-10-17.

@@ -1,6 +1,6 @@
-package reports;
+package hospital.reports;
 
-import domain.Employee;
+import hospital.domain.Employee;
 
 /**
  * Created by gbelot on 06-10-17.

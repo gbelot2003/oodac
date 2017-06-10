@@ -1,7 +1,7 @@
-package DAO;
+package hospital.DAO;
 
 import database.DatabaseConnectionManager;
-import domain.Employee;
+import hospital.domain.Employee;
 
 public class EmployeeDAO {
 
