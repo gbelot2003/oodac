@@ -3,7 +3,7 @@ package domain;
 /**
  * Created by gbelot on 06-09-17.
  */
-public class Employee {
+abstract public class Employee {
     private long Id;
     private String name;
     private String department;
@@ -18,6 +18,8 @@ public class Employee {
         this.working = working;
     }
 
+    public abstract void performDuties();
+
     @Override
     public String toString() {
         return "Employee{" +
@@ -27,4 +29,6 @@ public class Employee {
                 ", working=" + working +
                 '}';
     }
+
+
 }
